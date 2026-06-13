@@ -37,7 +37,7 @@ services:
     build: ./Frontend
     container_name: intellimeet-frontend
     ports:
-      - "5173:80"
+      - "80:80"
     depends_on:
       - backend
     restart: unless-stopped
