@@ -17,7 +17,6 @@ A full-stack video conferencing application with AI-powered features, built with
 - **Meeting PIN/Spotlight** — Click to spotlight any participant
 
 ---
-
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -42,7 +41,6 @@ cd Frontend
 npm install
 npm run dev
 ```
-
 The app will be running at `http://localhost:5173`
 
 ---
